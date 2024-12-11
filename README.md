@@ -13,7 +13,7 @@ I`m Mori, a student currently pursuing a degree in Digital Games at Pontifical C
 "[**`Cutucadores`**][cutucadores]"(PC) An online multiplayer PVP Unity game where you control excavators operated by moles. Servers are currently offline. Can be viewed at:[Cutucadores Repositorie][cutucadoresGit]
 
 [pangada]: https://play.google.com/store/apps/details?id=com.Labutton.MestresDaPangada&pcampaignid=web_share
-[feras]: https://youtu.be/RRhqCFSe1R4
+[feras]: https://mori-gamedev.itch.io/feras
 [cutucadores]: https://youtu.be/14TajvLvxTc?si=eEjWil50FQgdAR1E
 
 [ferasGit]: https://github.com/LabuttonGameStudio/AnimalsAgentGame
