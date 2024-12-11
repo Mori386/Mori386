@@ -2,7 +2,7 @@
 
 **`Game Dev (Programmer/Game Designer)`**
 
-I’m Mori, a student currently pursuing a career as a Game Designer or Programmer. Recently, I graduated in **`Digital Games at Pontifical Catholic University of São Paulo (PUC-SP)`**. All my games have been fully developed from the ground up, from planning and designing game mechanics to programming them. I am proficient in various programming languages such as **`C#, C++ and Lua`** and game development tools **`Unity, Unreal and Godot`**, and I am constantly seeking opportunities to learn and grow in this ever-evolving field
+I’m Mori, i'm currently pursuing a career as a Game Designer or Programmer. Recently, I graduated in **`Digital Games at Pontifical Catholic University of São Paulo (PUC-SP)`**. All my games have been fully developed from the ground up, from planning and designing game mechanics to programming them. I am proficient in various programming languages such as **`C#, C++ and Lua`** and game development tools **`Unity, Unreal and Godot`**, and I am constantly seeking opportunities to learn and grow in this ever-evolving field
 
 
 # 🎮My Games:
