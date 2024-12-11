@@ -8,7 +8,7 @@ I`m Mori, a student currently pursuing a degree in Digital Games at Pontifical C
 # 🎮My Games:
 "[**`Mestres Da Pangada`**][pangada]"-(Mobile) Unity Game that combines elements of fighting games, soccer, and pong. Available for download on Android.
 
-"[**`FERAS e o Mistério da Ilha do Futuro`**][feras]"-(WIP)(PC) An immersive sim Unity Game with  featuring secret agent animals. Coming soon. Can be viewed at: [Feras Repositorie][ferasGit]
+"[**`FERAS e o Mistério da Ilha do Futuro`**][feras]"-(PC) An immersive sim Unity Game with  featuring secret agent animals. Demo currently available at [**`Itch.io`**][feras] and repo viewed at: [Feras Repositorie][ferasGit]
 
 "[**`Cutucadores`**][cutucadores]"(PC) An online multiplayer PVP Unity game where you control excavators operated by moles. Servers are currently offline. Can be viewed at:[Cutucadores Repositorie][cutucadoresGit]
 
